@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "doodles.js",
+  "scripts": {
+    "doodles": "node doodles.js",
+    "fibonacci": "node fibonacci.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
